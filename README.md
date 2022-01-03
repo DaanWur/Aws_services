@@ -9,5 +9,5 @@
 * $Env:AWS_SECRET_ACCESS_KEY =
 ## Run the backend service 
 ## Run the frontend service
-### go to http://localhost:3001/api/cpuMetrics/ip/{desired ip}/timePeriod/{desired timeperiod}/interval/{desired interval}
+### go to http://localhost:3000/api/cpuMetrics/ip/{desired ip}/timePeriod/{desired timeperiod}/interval/{desired interval}
 ## start graphing
