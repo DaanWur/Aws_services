@@ -1,0 +1,50 @@
+{
+  "data": {
+    "labels": [],
+    "datasets": [
+      {
+        "label": "AVG CPU USAGE",
+        "data": [],
+        "fill": true,
+        "backgroundColor": "#2e4355",
+        "pointBorderColor": "#8884d8",
+        "pointBorderWidth": 5,
+        "pointRadius": 8,
+        "tension": 0.4
+      }
+    ]
+  },
+  "options": {
+    "plugins": {
+      "legend": {
+        "display": false
+      }
+    },
+    "layout": {
+      "padding": {
+        "bottom": 100
+      }
+    },
+    "scales": {
+      "y": {
+        "ticks": {
+          "color": "white",
+          "font": {
+            "size": 16
+          }
+        },
+        "grid": {
+          "color": "#243240"
+        }
+      },
+      "x": {
+        "ticks": {
+          "color": "white",
+          "font": {
+            "size": 16
+          }
+        }
+      }
+    }
+  }
+}

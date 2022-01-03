@@ -1,0 +1,40 @@
+.Graph {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+.Form {
+  background-color: #282c34;
+  min-height: 10vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  font-size: calc(5px + vmin);
+  color: white;
+  align-items: start;
+  padding: 20px;
+}
+.TimePeriod {
+  margin-left: 71px;
+  background-color: #9dc6e0;
+  border-radius: 5px;
+}
+.Period {
+  margin-left: 60px;
+  background-color: #9dc6e0;
+  border-radius: 5px;
+}
+.IPAddress {
+  margin-left: 30px;
+  background-color: #9dc6e0;
+  border-radius: 5px;
+}
+
+h2 {
+  color: #9dc6e0;
+}

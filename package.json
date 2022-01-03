@@ -1,0 +1,30 @@
+{
+  "dependencies": {
+    "@aws-sdk/client-cloudwatch": "^3.45.0",
+    "@aws-sdk/client-ec2": "^3.45.0",
+    "aws-sdk": "^2.1048.0",
+    "axios": "^0.24.0",
+    "chart.js": "^3.7.0",
+    "config": "^3.3.6",
+    "cors": "^2.8.5",
+    "express": "^4.17.2",
+    "express-async-errors": "^3.1.1",
+    "fs": "^0.0.1-security",
+    "joi": "^17.5.0",
+    "mongose": "^0.0.2-security",
+    "nodemon": "^2.0.15",
+    "recharts": "^2.1.8",
+    "uuid": "^8.3.2",
+    "winston": "^3.3.3"
+  },
+  "name": "home_exc",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
