@@ -1,4 +1,7 @@
 # Aws_services
+![Screenshot 2022-01-03 171817](https://user-images.githubusercontent.com/50828198/147947685-e0e1beea-24de-4fe6-bfbf-f1492d553327.png)
+
+
 ## Stating to use -
 * create environment variables - add your credentials after the equal sign:
 * $Env:AWS_ACCESS_KEY_ID =
