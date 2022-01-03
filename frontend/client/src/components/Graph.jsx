@@ -39,7 +39,7 @@ class Graph extends Component {
   talkToBe = async () => {
     await axios
       .get(
-        `http://localhost:3000/api/cpuMetrics/ip/${this.state.ipvar}/timePeriod/${this.state.timePeriod}/interval/${this.state.interval}`
+        `http://localhost:8080/api/cpuMetrics/ip/${this.state.ipvar}/timePeriod/${this.state.timePeriod}/interval/${this.state.interval}`
       )
       .then((result) => result.data)
       .then((res) => {
